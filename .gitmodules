@@ -1,0 +1,3 @@
+[submodule "sub"]
+	path = sub
+	url = http://yacao-vm2:8080/tfs/DefaultCollection/_git/sub
