@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = http://yacao-vm2:8080/tfs/DefaultCollection/_git/sub
+[submodule "lib/RecipeDemo"]
+	path = lib/RecipeDemo
+	url = https://github.com/ycao233/RecipeDemo.git
